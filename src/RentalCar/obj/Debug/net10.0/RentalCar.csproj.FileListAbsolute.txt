@@ -1,0 +1,11 @@
+c:\Tutorials\RentalCar\src\RentalCar\bin\Debug\net10.0\RentalCar.deps.json
+c:\Tutorials\RentalCar\src\RentalCar\bin\Debug\net10.0\RentalCar.dll
+c:\Tutorials\RentalCar\src\RentalCar\bin\Debug\net10.0\RentalCar.pdb
+c:\Tutorials\RentalCar\src\RentalCar\obj\Debug\net10.0\RentalCar.GeneratedMSBuildEditorConfig.editorconfig
+c:\Tutorials\RentalCar\src\RentalCar\obj\Debug\net10.0\RentalCar.AssemblyInfoInputs.cache
+c:\Tutorials\RentalCar\src\RentalCar\obj\Debug\net10.0\RentalCar.AssemblyInfo.cs
+c:\Tutorials\RentalCar\src\RentalCar\obj\Debug\net10.0\RentalCar.csproj.CoreCompileInputs.cache
+c:\Tutorials\RentalCar\src\RentalCar\obj\Debug\net10.0\RentalCar.dll
+c:\Tutorials\RentalCar\src\RentalCar\obj\Debug\net10.0\refint\RentalCar.dll
+c:\Tutorials\RentalCar\src\RentalCar\obj\Debug\net10.0\RentalCar.pdb
+c:\Tutorials\RentalCar\src\RentalCar\obj\Debug\net10.0\ref\RentalCar.dll
